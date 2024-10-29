@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###My name is *Omar* and I am a **Software Engineer**
+### My name is *Omar* and I am a **Software Engineer**
 
 <!--
 **omar170202/omar170202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
