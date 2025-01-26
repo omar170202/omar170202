@@ -2,6 +2,8 @@
 
 ### My name is *Omar* and I am a **Software Engineer**
 
+### Connect with me through my [LinkedIn](https://www.linkedin.com/in/omarhssn/)
+
 <!--
 **omar170202/omar170202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
